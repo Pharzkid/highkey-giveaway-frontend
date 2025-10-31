@@ -6,7 +6,7 @@
       "dev": "vite",
       "build": "vite build",
       "preview": "vite preview",
-      "postinstall": "npm rebuild esbuild"
+      "postinstall": "chmod +x ./node_modules/.bin/vite || true"
     },
     "dependencies": {
       "@vitejs/plugin-react": "^5.1.0",
