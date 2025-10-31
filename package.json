@@ -3,25 +3,25 @@
     "version": "1.0.0",
     "private": true,
     "scripts": {
-        "dev": "vite",
-        "build": "vite build",
-        "preview": "vite preview",
-        "postinstall": "npm rebuild esbuild"
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview",
+      "postinstall": "npm rebuild esbuild"
     },
     "dependencies": {
-        "@vitejs/plugin-react": "^5.1.0",
-        "axios": "^1.4.0",
-        "framer-motion": "^10.12.16",
-        "react": "^18.2.0",
-        "react-dom": "^18.2.0",
-        "react-router-dom": "^6.14.1"
+      "@vitejs/plugin-react": "^5.1.0",
+      "axios": "^1.4.0",
+      "framer-motion": "^10.12.16",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-router-dom": "^6.14.1"
     },
     "devDependencies": {
-        "autoprefixer": "^10.4.14",
-        "esbuild": "^0.25.11",
-        "esbuild-windows-64": "^0.15.18",
-        "postcss": "^8.4.24",
-        "tailwindcss": "^3.4.8",
-        "vite": "^7.1.12"
+      "autoprefixer": "^10.4.14",
+      "esbuild": "^0.25.11",
+      "postcss": "^8.4.24",
+      "tailwindcss": "^3.4.8",
+      "vite": "^7.1.12"
     }
-}
+  }
+  
